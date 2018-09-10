@@ -1,5 +1,5 @@
 {
-  "name": "@zh/koa-logger-bunyan",
+  "name": "koa-logger-bunyan",
   "version": "0.0.1",
   "main": "index.js",
   "author": "xzh",
