@@ -12,5 +12,5 @@ app.use(koaLogger())
 ![](https://blogaaaaxzh.oss-cn-hangzhou.aliyuncs.com/koa-logger%20first.png)
 
 ## Todo
-- [] customize
-- [] test
+- [ ] customize
+- [ ] test
