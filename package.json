@@ -2,8 +2,11 @@
   "name": "koa-logger-bunyan",
   "version": "0.0.2",
   "main": "index.js",
-  "author": "xzh",
+  "author": {"name": "xzh", "email": "adherentxu@gmail.com"},
+  "repository": {"type": "git", "url": "https://github.com/Adherentman/koa-logger-bunyan"},
   "license": "MIT",
+  "homepage": "https://github.com/Adherentman/koa-logger-bunyan",
+  "description": "Koa middleware for logging using bunya",
   "dependencies": {
     "bunyan": "^1.8.12",
     "uuid": "^3.3.2"
