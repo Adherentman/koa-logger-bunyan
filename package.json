@@ -1,9 +1,15 @@
 {
   "name": "koa-logger-bunyan",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
-  "author": {"name": "xzh", "email": "adherentxu@gmail.com"},
-  "repository": {"type": "git", "url": "https://github.com/Adherentman/koa-logger-bunyan"},
+  "author": {
+    "name": "xzh",
+    "email": "adherentxu@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adherentman/koa-logger-bunyan"
+  },
   "license": "MIT",
   "homepage": "https://github.com/Adherentman/koa-logger-bunyan",
   "description": "Koa middleware for logging using bunya",
