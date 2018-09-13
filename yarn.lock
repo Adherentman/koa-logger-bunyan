@@ -53,12 +53,9 @@ inherits@2:
   version "2.0.3"
   resolved "http://registry.npm.taobao.org/inherits/download/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
 
-koa-logger-bunyan@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.npmjs.org/koa-logger-bunyan/-/koa-logger-bunyan-0.0.1.tgz#66c6d475e041d6a422c969b9305964db230001ab"
-  dependencies:
-    bunyan "^1.8.12"
-    uuid "^3.3.2"
+lodash@^4.17.11:
+  version "4.17.11"
+  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
 "minimatch@2 || 3":
   version "3.0.4"
