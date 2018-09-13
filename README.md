@@ -35,7 +35,7 @@ app.use(koaLogger({
 For specific use, please refer to https://github.com/trentm/node-bunyan.
 
 ## Result
-![](https://blogaaaaxzh.oss-cn-hangzhou.aliyuncs.com/koa-logger%20first.png)
+![](https://blogaaaaxzh.oss-cn-hangzhou.aliyuncs.com/new-koa-logger.png)
 
 ## Todo
 - [x] customize
