@@ -10,6 +10,13 @@
     "type": "git",
     "url": "https://github.com/Adherentman/koa-logger-bunyan"
   },
+  "keywords":[
+    "koa",
+    "logger",
+    "log",
+    "middleware",
+    "bunyan"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/Adherentman/koa-logger-bunyan",
   "description": "Koa middleware for logging using bunya",
